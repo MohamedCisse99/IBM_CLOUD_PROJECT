@@ -1,0 +1,5 @@
+applications:
+- name: test-cisse
+  memory: 256M
+  instances: 1
+  buildpack: python_buildpack
